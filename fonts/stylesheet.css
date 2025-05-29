@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Memphis';
+    src: url('../fonts/Memphis-Medium.eot');
+    src: url('../fonts/Memphis-Medium.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Memphis-Medium.woff2') format('woff2'),
+        url('../fonts/Memphis-Medium.woff') format('woff'),
+        url('../fonts/Memphis-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
